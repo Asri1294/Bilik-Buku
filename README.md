@@ -12,15 +12,14 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 -  **Session login/logout**
 -  **Pencarian dan Pagination** data buku
 -  Manajemen kategori dan anggota
--  UI responsif (menggunakan AdminLTE)
+-  UI responsif 
 
 ---
 
 ##  Teknologi yang Digunakan
 
 - PHP (CodeIgniter 3)
-- MySQL
-- AdminLTE (UI Template)
+- Xampp
 - jQuery, Bootstrap, FontAwesome
 
 ---
@@ -61,23 +60,13 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 
 ---
 
-##  Screenshot Tampilan
-
-> Sertakan screenshot UI berikut dalam laporan:
-- Halaman Login
-- Dashboard
-- Daftar Buku
-- Form Tambah/Edit Buku
-- Halaman Pencarian
-
----
-
 ##  Cara Menjalankan Proyek
 
-1. **Salin folder ke `htdocs/`**
-2. **Import file `project_perpus.sql` ke phpMyAdmin**
-3. **Edit konfigurasi database di `application/config/database.php`**
-4. **Buka `http://localhost/perpus-ci3/` di browser**
+1. **Siapkan folder CI3 (ekstrak dari `CodeIgniter-3.1.13.zip`) **
+2. **Salin dan sesuaikan folder ke `htdocs/`**
+3. **Import file `project_perpus.sql` ke phpMyAdmin**
+4. **Edit konfigurasi database di `application/config/database.php`**
+5. **Buka `http://localhost/perpus-ci3/` di browser**
 
 ---
 
@@ -86,8 +75,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 Berisi:
 - Tujuan pembuatan web
 - Penjelasan tiap fitur
-- Struktur folder penting
-- Proses instalasi
+- Struktur folder 
 - Screenshot UI
 - Link YouTube
 
