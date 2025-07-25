@@ -16,7 +16,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - PHP (CodeIgniter 3)
 - MySQL
@@ -25,7 +25,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 
 ---
 
-## 📁 Struktur Direktori Penting
+##  Struktur Direktori Penting
 
 | Folder / File         | Deskripsi                                       |
 |-----------------------|--------------------------------------------------|
@@ -46,7 +46,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 | `username`       | `root`                        |
 | `password`       | *(kosong)*                    |
 
-> 📌 Pastikan konfigurasi ini sesuai di `application/config/config.php` dan `database.php`.
+>  Pastikan konfigurasi sesuai di `application/config/config.php` dan `database.php`.
 
 ---
 
