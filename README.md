@@ -1,6 +1,6 @@
 # Bilik-Buku
 
-#  Aplikasi Perpustakaan Buku Digital (CI3 + MySQL)
+#  Aplikasi Perpustakaan Buku Digital (CI3 + XAMPP)
 
 Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sistem **Perpustakaan Buku Digital**. Dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Web** dengan ketentuan fitur seperti CRUD, session handling, pencarian, dan pagination.
 
