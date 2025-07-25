@@ -72,7 +72,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 
 ---
 
-## 📦 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 
 1. **Salin folder ke `htdocs/`**
 2. **Import file `project_perpus.sql` ke phpMyAdmin**
@@ -109,7 +109,7 @@ Berisi:
 
 ---
 
-## 📝 Lisensi
+##  Lisensi
 
 Proyek ini digunakan hanya untuk **tujuan edukasi** dan tugas kuliah. Semua hak cipta dan properti UI tetap milik pembuat aslinya. Silakan gunakan dan modifikasi dengan bijak.
 
