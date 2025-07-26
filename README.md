@@ -77,6 +77,8 @@ Berisi:
 - Penjelasan tiap fitur
 - Struktur folder 
 - Screenshot UI
+- Konfigurasi Web
+- Tambahan Keterangan 
 
 ---
 
