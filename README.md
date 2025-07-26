@@ -2,17 +2,17 @@
 
 #  Aplikasi Perpustakaan Buku Digital (CI3 + XAMPP)
 
-Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sistem **Perpustakaan Buku Digital**. Dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Web** dengan ketentuan fitur seperti CRUD, session handling, pencarian, dan pagination.
+Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sistem **Perpustakaan Buku Digital**. Dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Web II** dengan ketentuan fitur seperti CRUD, session handling, searching, dan pagination.
 
 ---
 
 ##  Fitur 
 
--  **Create, Read, Update, Delete (CRUD)** data buku
+-  **Create, Read, Update, Delete (CRUD)** 
 -  **Session login/logout**
 -  **Pencarian dan Pagination** data buku
--  Manajemen kategori dan anggota
--  UI responsif 
+-  **Manajemen kategori dan anggota**
+-  **UI responsif** 
 
 ---
 
@@ -38,10 +38,10 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 
 ##  Konfigurasi Web
 
-| Konfigurasi      | Nilai                          |
+| Konfigurasi      | Nilai                         |
 |------------------|-------------------------------|
-| `base_url`       | `http://localhost/perpus-ci3/` |
-| `database_name`  | `perpus_ci3`                  |
+| `base_url`       | `http://localhost/perpus-ci3/`|
+| `database_name`  | `project_perpus`              |
 | `username`       | `root`                        |
 | `password`       | *(kosong)*                    |
 
@@ -63,7 +63,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 ##  Cara Menjalankan Proyek
 
 1. **Siapkan folder CI3 (ekstrak dari `CodeIgniter-3.1.13.zip`) **
-2. **Salin dan sesuaikan folder ke `htdocs/`**
+2. **Salin folder CI3 yang sudah diekstrak ke `htdocs/` dan sesuaikan dengan isi folder `perpus-ci3` **
 3. **Import file `project_perpus.sql` ke phpMyAdmin**
 4. **Edit konfigurasi database di `application/config/database.php`**
 5. **Buka `http://localhost/perpus-ci3/` di browser**
@@ -77,7 +77,6 @@ Berisi:
 - Penjelasan tiap fitur
 - Struktur folder 
 - Screenshot UI
-- Link YouTube
 
 ---
 
