@@ -32,7 +32,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 | `application/models`      | Model database untuk buku dan user         |
 | `application/views`       | Tampilan halaman (akan ditambahkan manual) |
 | `assets_style`            | Berisi folder `assets/` dan `image/`       |
-| `database/perpus.sql`     | File SQL database yang sudah dimodifikasi  |
+| `database/projek_perpus.sql`     | File SQL database yang sudah dimodifikasi  |
 
 ---
 
@@ -64,7 +64,7 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 
 1. **Siapkan folder CI3 (ekstrak dari `CodeIgniter-3.1.13.zip`) **
 2. **Salin folder CI3 yang sudah diekstrak ke `htdocs/` dan sesuaikan dengan isi folder `perpus-ci3` **
-3. **Import file `project_perpus.sql` ke phpMyAdmin**
+3. **Import file `projek_perpus.sql` ke phpMyAdmin**
 4. **Edit konfigurasi database di `application/config/database.php`**
 5. **Buka `http://localhost/perpus-ci3/` di browser**
 
