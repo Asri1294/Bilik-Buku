@@ -2,7 +2,7 @@
 
 #  Aplikasi Perpustakaan Buku Digital (CI3 + XAMPP)
 
-Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sistem **Perpustakaan Buku Digital**. Dibuat sebagai bagian dari tugas mata kuliah **Pemrograman Web II** dengan ketentuan fitur seperti CRUD, session handling, searching, dan pagination.
+Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sistem **Perpustakaan Buku Digital**. Dibuat sebagai bagian dari tugas akhir mata kuliah **Pemrograman Web II** dengan ketentuan fitur seperti CRUD, session handling, searching, dan pagination.
 
 ---
 
