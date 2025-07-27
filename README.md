@@ -91,7 +91,7 @@ Berisi:
 
 ##  Sumber Referensi
 
->  Proyek ini dimodifikasi dari repositori [fauzan1892/perpus-ci3] dengan penyesuaian tampilan, nama database, serta penghapusan watermark untuk tujuan edukasi.
+>  Proyek ini dimodifikasi dari repositori [fauzan1892/perpus-ci3] dengan penyesuaian tampilan, nama database, penghapusan watermark untuk tujuan edukasi, menambah anggota dan gambar, dan lainnya.
 
 - Proyek dasar: [https://github.com/fauzan1892/perpus-ci3](https://github.com/fauzan1892/perpus-ci3)
 - Dokumentasi CI3: https://codeigniter.com/user_guide/
