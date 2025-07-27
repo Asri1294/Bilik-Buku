@@ -62,8 +62,8 @@ Aplikasi ini adalah proyek web berbasis CodeIgniter 3 yang berfungsi sebagai sis
 
 ##  Cara Menjalankan Proyek
 
-1. **Siapkan folder CI3 (ekstrak dari `CodeIgniter-3.1.13.zip`) **
-2. **Salin folder CI3 yang sudah diekstrak ke `htdocs/` dan sesuaikan dengan isi folder `perpus-ci3` **
+1. **Siapkan folder CI3 (ekstrak dari `CodeIgniter-3.1.13.zip`)**
+2. **Salin folder CI3 yang sudah diekstrak ke `htdocs/` dan sesuaikan dengan isi folder `perpus-ci3`**
 3. **Import file `projek_perpus.sql` ke phpMyAdmin**
 4. **Edit konfigurasi database di `application/config/database.php`**
 5. **Buka `http://localhost/perpus-ci3/` di browser**
